@@ -1,2 +1,2 @@
 # Baralho
- Meu segundo projeto em python, falta debugar, ainda não está 100%
+Meu segundo projeto em python, funcionando 100% sem bugs!
